@@ -1,5 +1,5 @@
-# Hai Dokter Cantik
-Aplikasi mobile untuk pasien klinik kecantikan dapat konsultasi kepada dokter di klinik kecantikan 
+# Hai Dokter Psikolog
+Aplikasi mobile untuk pasien klinik kecantikan dapat konsultasi kepada dokter di klinik Psikologi 
 
 ## Anggota Kelompok
 

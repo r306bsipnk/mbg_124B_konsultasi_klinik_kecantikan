@@ -1,16 +1,9 @@
-# klinik_kecantikan
+# Hai Dokter Cantik
+Aplikasi mobile untuk pasien klinik kecantikan dapat konsultasi kepada dokter di klinik kecantikan 
 
-A new Flutter project.
+## Anggota Kelompok
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Dayang alya anisa maharani/12220858, 
+2. Setia/12220850,  
+3. Hendrikus bulau/12220980
+4. Galananda/12221065
